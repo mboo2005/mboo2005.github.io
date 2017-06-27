@@ -1,2 +1,3 @@
 name: Bob ma
 markdown: kramdown
+theme: jekyll-theme-minimal
