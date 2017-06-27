@@ -1,3 +1,7 @@
+---
+title: "new things today"
+date: 2017-06-27
+---
 
 Some interesting stuffs in today's study.
 
